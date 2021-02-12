@@ -1,0 +1,9 @@
+t=2020-11-11T15:57:49+0000 lvl=dbug msg="Registered with dispatcher" addr=17-ffaa:1:e6b,10.100.1.1:8334
+CLIENT: Packet-written: bytes=57 addr=17-ffaa:1:e6b,10.100.1.2:8090
+CLIENT: Packet-received: bytes=56 from=17-ffaa:1:e6b,10.100.1.2:1173
+CLIENT:The answer was: 
+
+Bad Requet :(
+The flag: 'Z' is not supported.
+
+
